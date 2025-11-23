@@ -1,7 +1,7 @@
 # Vistas en Odoo 19 — {Nombre Apellidos}
-**Reto:** Reto_01_Vistas_Odoo19_{Nombre}_{Apellidos}  
+**Reto:** Reto_01_Vistas_Odoo19_Daniel_delaFuenteRodrgio  
 **Proyecto:** Proyecto_RA3_UT3  
-**Fecha:** 2025-11-21
+**Fecha:** 2025-11-22
 
 > Documento **único** con todas las vistas. Usa **Developer Mode** para confirmar cada tipo de vista.
 
@@ -62,43 +62,43 @@
 **Cómo llegar**: Navega al menú, pulsa el **icono de tabla**.  
 **Comprobación (dev mode)**: *Editar vista* → tipo `tree`.  
 **Capturas**:  
-![Lista](../assets/img/01-list/paso01_vistaList.png)
+![Lista](../assets/img/01-list/paso01_vistaList.png "List")
 
 ### 02 Form
 **Dónde**: Clic en un registro desde la lista.  
 **Comprobación**: tipo `form`.  
 **Capturas**:  
-![Formulario](../assets/img/02-form/paso01_vistaForm.png)
+![Formulario](../assets/img/02-form/paso01_vistaForm.png "Form")
 
 ### 03 Kanban
 **Dónde**: CRM → Oportunidades → icono columnas.  
 **Comprobación**: tipo `kanban`.  
 **Capturas**:  
-![Kanban](../assets/img/03-kanban/paso01_vistaKanban.png)
+![Kanban](../assets/img/03-kanban/paso01_vistaKanban.png "Kanban")
 
 ### 04 Search
 **Dónde**: Barra superior en listas/kanban.  
 **Comprobación**: tipo `search` (estructura técnica).  
 **Capturas**:  
-![Search](../assets/img/04-search/paso01_vistaSearch.png)
+![Search](../assets/img/04-search/paso01_vistaSearch.png "Search")
 
 ### 05 Calendar
 **Dónde**: Calendario / Project / CRM.  
 **Comprobación**: tipo `calendar`.  
 **Capturas**:  
-![Calendar](../assets/img/05-calendar/paso01_vistaCalendar.png)
+![Calendar](../assets/img/05-calendar/paso01_vistaCalendar.png "Calendar")
 
 ### 06 Graph
 **Dónde**: *Reporting* en varios módulos.  
 **Comprobación**: tipo `graph`.  
 **Capturas**:  
-![Graph](../assets/img/06-graph/paso01_vistaGraph.png)
+![Graph](../assets/img/06-graph/paso01_vistaGraph.png "Graph")
 
 ### 07 Pivot
 **Dónde**: *Reporting*.  
 **Comprobación**: tipo `pivot`.  
 **Capturas**:  
-![Pivot](../assets/img/07-pivot/paso01_vistaPivot.png)
+![Pivot](../assets/img/07-pivot/paso01_vistaPivot.png "Pivot")
 
 ---
 
@@ -108,35 +108,35 @@
 **Dónde**: CRM → Oportunidades → icono **reloj**.  
 **Comprobación**: tipo `activity`.  
 **Capturas**:  
-![Activity](../assets/img/08-activity/paso01_vistaActivity.png)
+![Activity](../assets/img/08-activity/paso01_vistaActivity.png "Activity")
 
 ### 09 Cohort (Enterprise)
 **Dónde**: CRM/Helpdesk/Suscripciones → *Reporting → Cohort*.  
 **Comprobación**: tipo `cohort`.  
 **Alternativa**: si no está disponible, captura de **documentación oficial** (URL visible) + explicación.  
 **Capturas**:  
-![Cohort](../assets/img/09-cohort/paso01_cohort.png "Cohort")
+![Cohort](../assets/img/09-cohort/paso01_vistaCohort.png "Cohort")
 
 ### 10 Gantt (Enterprise)
 **Dónde**: Project/Planning → icono **Gantt**.  
 **Comprobación**: tipo `gantt`.  
 **Alternativa**: documentación oficial (URL visible).  
 **Capturas**:  
-![Gantt](../assets/img/10-gantt/paso01_gantt.png "Gantt")
+![Gantt](../assets/img/10-gantt/paso01_vistaGantt.png "Gantt")
 
 ### 11 Grid (Enterprise)
 **Dónde**: Planning / Forecast / Timesheets.  
 **Comprobación**: tipo `grid`.  
 **Alternativa**: documentación oficial (URL visible).  
 **Capturas**:  
-![Grid](../assets/img/11-grid/paso01_grid.png "Grid")
+![Grid](../assets/img/11-grid/paso01_vistaGrid.png "Grid")
 
 ### 12 Map (Enterprise)
 **Dónde**: Contactos / CRM (con módulo de mapas).  
 **Comprobación**: tipo `map`.  
 **Alternativa**: documentación oficial (URL visible).  
 **Capturas**:  
-![Map](../assets/img/12-map/paso01_map.png "Map")
+![Map](../assets/img/12-map/paso01_vistaMap.png "Map")
 
 ### 13 Hierarchy
 **Dónde**: RRHH → Empleados → Departamentos → **Hierarchy**.  
@@ -153,9 +153,9 @@
 ---
 
 ## Checklist final
-- [ ] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
-- [ ] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
-- [ ] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
-- [ ] Se indica **cómo llegar** a cada vista desde el menú.
-- [ ] **Bibliografía** con fuentes oficiales / artículos técnicos.
-- [ ] **PDF único** consolidado generado a partir del Markdown.
+- [x] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
+- [x] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
+- [x] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
+- [x] Se indica **cómo llegar** a cada vista desde el menú.
+- [x] **Bibliografía** con fuentes oficiales / artículos técnicos.
+- [x] **PDF único** consolidado generado a partir del Markdown.

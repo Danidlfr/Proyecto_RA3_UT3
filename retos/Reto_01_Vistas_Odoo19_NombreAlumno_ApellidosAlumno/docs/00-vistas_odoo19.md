@@ -1,4 +1,4 @@
-# Vistas en Odoo 19 — {Nombre Apellidos}
+# Vistas en Odoo 19 — Daniel de la Fuente Rodrigo
 **Reto:** Reto_01_Vistas_Odoo19_Daniel_delaFuenteRodrgio  
 **Proyecto:** Proyecto_RA3_UT3  
 **Fecha:** 2025-11-22
